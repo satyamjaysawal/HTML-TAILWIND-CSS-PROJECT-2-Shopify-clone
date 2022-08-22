@@ -39,7 +39,7 @@ A HTML,Tailwind CSS Project. Made with ♥ by Satyam Jaysawal. There will be a S
 
 ## 🔗 Time took to finish the project
 
-It took me 14 hour to finish this project and it was fun working on it.
+It took me 12 hour to finish this project and it was fun working on it.
 
 ## 🔗 Tools Used
 
