@@ -58,7 +58,7 @@ You can get started by following the ineuron Website and learn code online.
 Just open your favorite code editor and follow along with the---
 
 [![image](https://user-images.githubusercontent.com/108862706/185857850-f2534c65-fdcc-4f5b-92a4-080229e5eaff.png)
-](https://paytm.com/)
+](https://www.shopify.in/)
 🔗[https://www.shopify.in/](https://www.shopify.in/)..
 
 ### Who the project is for?
